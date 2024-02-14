@@ -1,24 +1,5 @@
-
-<!--
-### Hi there 👋
-
-
-
-**hkg0108/hkg0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/gruposiagri-transparent-siagri-grupo-kfj6Bw4r97EscpSToz" width="100"/>
+  <img src="https://giphy.com/stickers/webfx-code-interactive-code-a-yoda-vLlpbDafjgHystuJ0a" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsh-gandhi-92864b180/">
@@ -26,7 +7,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div id="profile-views" align="center">
- <img src="https://komarev.com/ghpvc/?username=SuritNandy&style=flat-square&color=blue" alt=""/> 
+ <img src="https://komarev.com/ghpvc/?username=hkg0108&style=flat-square&color=blue" alt=""/> 
 <h1>Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="40px" />, Harsh here...</h1>
 </div>
 
