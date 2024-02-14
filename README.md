@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Dashpay-digital-dash-dashpay-NC8i34AU5UxWMHVxyU)" width="100"/>
 </div>
-
-
+<!--
 ### Hi there 👋
 
 <!--
@@ -24,3 +23,4 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkg0108&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
+-->
