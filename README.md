@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/gruposiagri-transparent-siagri-grupo-kfj6Bw4r97EscpSToz" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/surit-nandy-7b69921aa/">
+  <a href="https://www.linkedin.com/in/harsh-gandhi-92864b180/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div id="profile-views" align="center">
  <img src="https://komarev.com/ghpvc/?username=SuritNandy&style=flat-square&color=blue" alt=""/> 
-<h1>Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="40px" />, I'm Surit</h1>
+<h1>Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="40px" />, Harsh here...</h1>
 </div>
 
 <p align="center">
