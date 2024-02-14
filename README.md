@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kfj6Bw4r97EscpSToz/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsh-gandhi-92864b180/">
