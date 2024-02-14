@@ -17,13 +17,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/surit-nandy-7b69921aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="profile-views" align="center">
+ <img src="https://komarev.com/ghpvc/?username=SuritNandy&style=flat-square&color=blue" alt=""/> 
+<h1>Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="40px" />, I'm Surit</h1>
+</div>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkg0108&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Dashpay-digital-dash-dashpay-NC8i34AU5UxWMHVxyU)" width="100"/>
-</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
